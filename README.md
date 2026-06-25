@@ -115,8 +115,10 @@ REDACTOR-X no borra archivos, no envía datos a internet, no cambia originales y
 
 ---
 
-## Licencia
+# Licencia
 
-MIT.
+<img width="300" height="159" alt="giphy (25)" src="https://github.com/user-attachments/assets/021720ff-3aec-4916-9a93-25d47afd7d97" />
 
 **xtr4ng3**
+
+MIT.
