@@ -1,5 +1,7 @@
 # REDACTOR-X
 
+<img width="1672" height="941" alt="rx" src="https://github.com/user-attachments/assets/03e4ecb6-893d-40f0-8222-3cb7bb2b3018" />
+
 **REDACTOR-X** es una herramienta local para detectar, previsualizar y censurar datos sensibles antes de compartir logs, configs, reportes o carpetas de proyecto.
 
 Creado por **xtr4ng3**.
