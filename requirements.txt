@@ -1,0 +1,1 @@
+# REDACTOR-X v1.0 no requiere dependencias externas.

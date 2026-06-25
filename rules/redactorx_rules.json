@@ -1,0 +1,6 @@
+{
+  "name": "REDACTOR-X default rules",
+  "author": "xtr4ng3",
+  "note": "Default rules are compiled inside src/redactorx/patterns.py. This file is reserved for future external rules.",
+  "custom_patterns": []
+}
